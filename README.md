@@ -28,6 +28,12 @@ Retornou mais 84 fontes
 1. Retorne um resumo sobre o desenvolvimento de logotipo, focando em dicas de conceitualização e design (especificando a psicologia por trás da fonte, cores e formato), o passo a passo para o registro formal e cases de sucesso na consolidação no mercado (aponte mudanças, adaptações e feedback ao longo do tempo)
 2. Faça um esboço detalhado para o Manual de Identidade Visual
 3. Inclua exemplos visuais em cada seção do Manual anterior
+4. Faça um relatório técnico em PDF completo e detalhado, tanto com a parte inicial desta conversa com o resumo focando em dicas de conceitualização e design (especificando a psicologia por trás da fonte, cores e formato), o passo a passo para o registro formal e cases de sucesso na consolidação no mercado (aponte mudanças, adaptações e feedback ao longo do tempo) e também com o manual (exemplificando as seções com imagens).
+5. Faça um relatório técnico em PDF completo e detalhado, tanto com a parte inicial desta conversa com o resumo focando em dicas de conceitualização e design (especificando a psicologia por trás da fonte, cores e formato), o passo a passo para o registro formal e cases de sucesso na consolidação no mercado (aponte mudanças, adaptações e feedback ao longo do tempo) e também com o manual (exemplificando as seções com imagens).
+
+## Resumo Detalhado
+1. Crie uma apresentação, incluindo exemplos visuais (imagens) tanto do resumo como do Manual
+   Retornou uma apresentação boa, porém muito resumida. Englobou bem as normas e requisitos legais, porém excluiu uma parte importante relativa a abordagem    psicológico durante o processo de criação  
 
 
 
