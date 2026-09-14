@@ -13,13 +13,13 @@ Desenvolvimento de logotipo: conceitualização, design, registro e consolidaç�
 Investimento pessoal em pequenos negócios
 
 ## Fontes:
-https://logogeek-uk.translate.goog/logo-design/books/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
-https://ebaconline.com.br/blog/tipos-de-logotipo
-https://www.tailorbrands.com/pt-br/logo-maker/formas-de-logotipo
-https://www.printi.com.br/blog/descubra-diferenca-entre-logo-logotipo-e-logomarca?srsltid=AfmBOoqqtdLldn9f9iXSlZ-yUogAmMJT2_Wvj5pe_Xoak9XVw1NlYDw3
-https://www.figma.com/pt-br/resource-library/como-criar-um-logotipo/
-https://www.gov.br/inpi/pt-br/servicos/marcas/guia-basico
-https://alumemarketing.com.br/2024/10/04/casos-de-sucesso-em-rebranding-licoes-de-grandes-marcas/
+1. https://logogeek-uk.translate.goog/logo-design/books/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+2. https://ebaconline.com.br/blog/tipos-de-logotipo
+3. https://www.tailorbrands.com/pt-br/logo-maker/formas-de-logotipo
+4. https://www.printi.com.br/blog/descubra-diferenca-entre-logo-logotipo-e-logomarca?srsltid=AfmBOoqqtdLldn9f9iXSlZ-yUogAmMJT2_Wvj5pe_Xoak9XVw1NlYDw3
+5. https://www.figma.com/pt-br/resource-library/como-criar-um-logotipo/
+6. https://www.gov.br/inpi/pt-br/servicos/marcas/guia-basico
+7. https://alumemarketing.com.br/2024/10/04/casos-de-sucesso-em-rebranding-licoes-de-grandes-marcas/
 
 ## Deep Research com o "tema"
 Retornou mais 84 fontes
